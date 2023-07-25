@@ -3,6 +3,8 @@
 <h3 align="center">WordPress Developer</h3>
 
 ![Profile views](https://gpvc.arturio.dev/ashrafbd1496)
+[![](https://komarev.com/ghpvc/?username=ashrafbd1496&color=blue)](https://komarev.com/ghpvc/?username=ashrafbd1496)
+
 
 I'm a seasoned WordPress expert with over 5 years of experience in web development.Worked on a diverse range of projects, from blogs to WooCommerce and Shopify websites, and have completed 3 Laravel projects. With a portfolio showcasing 10+ custom WordPress themes, I'm now expanding my skills in WordPress plugin development, Gutenberg block development, Elementor addon development, React.js, and Headless WordPress. My passion for learning and my ability to blend technical expertise with a deep understanding of user experience make me a reliable and forward-thinking developer, consistently delivering exceptional results and making online dreams come to life.
 
