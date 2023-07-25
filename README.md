@@ -11,12 +11,12 @@ Skills: WordPress/ Shopify / React Js / Headless CMS /
 
 - 🔭 I’m currently working on [Upwork](https://upwork.com/)
 
-- 🌱 I’m currently learning **Gutenberg Block Dev, Plugin $ Addon Dev, Headless CMS, React**
+- 🌱 I’m currently learning **Gutenberg Block Dev, Plugin & Addon Dev, Headless CMS, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashrafbd1496](https://github.com/ashrafbd1496)
 
 
-- 💬 Ask me about **WordPress, Reactjs, Headless CMS, BLock Dev**
+- 💬 Ask me about **WordPress, Reactjs, Headless CMS, Block Dev**
 
 - 📫 How to reach me **asraf1496@gmail.com**
 
