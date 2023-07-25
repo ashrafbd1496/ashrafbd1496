@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ashraf Uddin</h1>
 <h3 align="center">WordPress Developer</h3>
 
-![Profile views](https://gpvc.arturio.dev/ashrafbd1496)
 [![](https://komarev.com/ghpvc/?username=ashrafbd1496&color=blue)](https://komarev.com/ghpvc/?username=ashrafbd1496)
 
 
