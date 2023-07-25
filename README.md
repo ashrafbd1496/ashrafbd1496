@@ -51,4 +51,4 @@ Skills: WordPress/ Shopify / React Js / Headless CMS /
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrafbd1496&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ashrafbd1496)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashrafbd1496)  
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashrafbd1496)](https://github.com/ashrafbd1496)
