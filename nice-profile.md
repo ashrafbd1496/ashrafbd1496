@@ -2,12 +2,12 @@
 
 [![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/ashraf1496)
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/mdashraf/)
-[![](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc)](https://t.me/debba)
+[![](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc)](https://t.me/ashraf1496)
 [![](https://img.shields.io/badge/-WordPress-informational?style=for-the-badge&logo=devto&logoColor=white&color=21759b)](https://profiles.wordpress.org/ashraf1496)
 
 ### About me
 
-- *Founder and developer* [@dueclic](https://github.com/01dollartemplate.com)  [![](https://raw.githubusercontent.com/debba/debba/main/assets/dueclic.png)](https://www.01dollartemplate.com)
+- *Founder and developer* [@01dollartemplate](https://github.com/01dollartemplate.com)  [![](https://raw.githubusercontent.com/debba/debba/main/assets/dueclic.png)](https://www.01dollartemplate.com)
 - *Web developer [![](https://raw.githubusercontent.com/debba/debba/main/assets/emailchef.png)](https://www.01dollartemplate.com)  [![](https://raw.githubusercontent.com/debba/debba/main/assets/turbosmtp.png)](https://www.01dollartemplate.com)
 - *Open source side projects and CMS integrations*
 - *Software consultant* [@ashrafbd](https://www.ashrafbd.com)
