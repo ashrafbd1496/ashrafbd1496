@@ -8,17 +8,17 @@
 ### About me
 
 - *Founder and developer* [@dueclic](https://github.com/01dollartemplate.com)  [![](https://raw.githubusercontent.com/debba/debba/main/assets/dueclic.png)](https://www.01dollartemplate.com)
-- *Software developer in email marketing services* @ eMailChef and turboSMTP [![](https://raw.githubusercontent.com/debba/debba/main/assets/emailchef.png)](https://www.emailchef.com)  [![](https://raw.githubusercontent.com/debba/debba/main/assets/turbosmtp.png)](https://www.serversmtp.com)
+- *Web developer [![](https://raw.githubusercontent.com/debba/debba/main/assets/emailchef.png)](https://www.01dollartemplate.com)  [![](https://raw.githubusercontent.com/debba/debba/main/assets/turbosmtp.png)](https://www.01dollartemplate.com)
 - *Open source side projects and CMS integrations*
-- *Software consultant* [@debbaweb](https://www.ashrafbd.com)
+- *Software consultant* [@ashrafbd](https://www.ashrafbd.com)
 
 ---
 <img align='left' style="padding:20px;vertical-align: middle;" src="https://raw.githubusercontent.com/debba/debba/main/assets/me.png" height="auto" width="250px">
 
 ```js
 document.write("Hello World");
-const Andrea = new Developer('Ashaf Uddin');
-Andrea.setInfo({
+const Ashraf = new Developer('Ashaf Uddin');
+Ashraf.setInfo({
     pronouns: "he" | "his",
     status: 'Web developer',
     os: 'Ubuntu',
